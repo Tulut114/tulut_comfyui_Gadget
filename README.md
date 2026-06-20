@@ -23,9 +23,26 @@ Here is a standard workflow demonstrating how to use the Tulut Detailer nodes wi
 ![Tulut Detailer Workflow](images/workflow.png)
 
 ### 2. Comparison (Before vs. After)
-Localized enhancement comparison showcasing the capabilities of anime face, hand, and foot refinement in full-body generations:
 
-![Detailer Comparison](images/comparison.png)
+#### 🔹 Face Refinement
+| Before | After |
+| :---: | :---: |
+| ![Face Before](images/face_before.png) | ![Face After](images/face_after.png) |
+
+#### 🔹 Hand Refinement
+| Before | After |
+| :---: | :---: |
+| ![Hand Before](images/hand_before.png) | ![Hand After](images/hand_after.png) |
+
+#### 🔹 Foot Refinement
+| Before | After |
+| :---: | :---: |
+| ![Foot Before](images/foot_before.png) | ![Foot After](images/foot_after.png) |
+
+#### 🔹 Full-Body Combined Refinement (All Three Enabled)
+| Before | After |
+| :---: | :---: |
+| ![Combined Before](images/combined_before.png) | ![Combined After](images/combined_after.png) |
 
 ---
 
