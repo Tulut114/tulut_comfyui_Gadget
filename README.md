@@ -1,4 +1,4 @@
-# Tulut Auto Detailer for ComfyUI (Optimized for Anime/Anima Models)
+# Tulut Auto Detailer for ComfyUI (Optimized for Anima Models)
 
 A  suite of custom nodes for ComfyUI specifically designed to **assist Anima models in repairing the loss of details in full-body shots caused by insufficient pixel resolution**. 
 
