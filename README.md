@@ -45,7 +45,7 @@ Here is a standard workflow demonstrating how to use the Tulut Detailer nodes wi
 | ![Combined Before](images/combined_before.png) | ![Combined After](images/combined_after.png) |
 
 #### 🔹 Side-by-Side Detailed Breakdown Matrix
-A comprehensive consolidated matrix showcasing individual targeted enhancement capabilities across faces, hands, and feet:
+Redrawing features for face, hands, and feet
 
 ![Detail Breakdown Matrix](images/detail_breakdown.png)
 
